@@ -1,0 +1,11 @@
+C:\Notas Mao\Hackaton 2019\SpeechTest\SpeechTest\bin\Debug\netcoreapp2.2\SpeechTest.deps.json
+C:\Notas Mao\Hackaton 2019\SpeechTest\SpeechTest\bin\Debug\netcoreapp2.2\SpeechTest.runtimeconfig.json
+C:\Notas Mao\Hackaton 2019\SpeechTest\SpeechTest\bin\Debug\netcoreapp2.2\SpeechTest.runtimeconfig.dev.json
+C:\Notas Mao\Hackaton 2019\SpeechTest\SpeechTest\bin\Debug\netcoreapp2.2\SpeechTest.dll
+C:\Notas Mao\Hackaton 2019\SpeechTest\SpeechTest\obj\Debug\netcoreapp2.2\SpeechTest.csprojAssemblyReference.cache
+C:\Notas Mao\Hackaton 2019\SpeechTest\SpeechTest\obj\Debug\netcoreapp2.2\SpeechTest.csproj.CoreCompileInputs.cache
+C:\Notas Mao\Hackaton 2019\SpeechTest\SpeechTest\obj\Debug\netcoreapp2.2\SpeechTest.AssemblyInfoInputs.cache
+C:\Notas Mao\Hackaton 2019\SpeechTest\SpeechTest\obj\Debug\netcoreapp2.2\SpeechTest.AssemblyInfo.cs
+C:\Notas Mao\Hackaton 2019\SpeechTest\SpeechTest\bin\Debug\netcoreapp2.2\SpeechTest.pdb
+C:\Notas Mao\Hackaton 2019\SpeechTest\SpeechTest\obj\Debug\netcoreapp2.2\SpeechTest.dll
+C:\Notas Mao\Hackaton 2019\SpeechTest\SpeechTest\obj\Debug\netcoreapp2.2\SpeechTest.pdb
