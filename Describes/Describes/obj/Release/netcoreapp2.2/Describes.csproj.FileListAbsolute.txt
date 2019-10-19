@@ -1,0 +1,17 @@
+C:\Notas Mao\Hackaton 2019\Describes\Describes\bin\Release\netcoreapp2.2\Describes.deps.json
+C:\Notas Mao\Hackaton 2019\Describes\Describes\bin\Release\netcoreapp2.2\Describes.runtimeconfig.json
+C:\Notas Mao\Hackaton 2019\Describes\Describes\bin\Release\netcoreapp2.2\Describes.runtimeconfig.dev.json
+C:\Notas Mao\Hackaton 2019\Describes\Describes\bin\Release\netcoreapp2.2\Describes.dll
+C:\Notas Mao\Hackaton 2019\Describes\Describes\bin\Release\netcoreapp2.2\Describes.pdb
+C:\Notas Mao\Hackaton 2019\Describes\Describes\bin\Release\netcoreapp2.2\Describes.Services.dll
+C:\Notas Mao\Hackaton 2019\Describes\Describes\bin\Release\netcoreapp2.2\Describes.Services.pdb
+C:\Notas Mao\Hackaton 2019\Describes\Describes\obj\Release\netcoreapp2.2\Describes.csprojAssemblyReference.cache
+C:\Notas Mao\Hackaton 2019\Describes\Describes\obj\Release\netcoreapp2.2\Describes.csproj.CoreCompileInputs.cache
+C:\Notas Mao\Hackaton 2019\Describes\Describes\obj\Release\netcoreapp2.2\Describes.RazorAssemblyInfo.cache
+C:\Notas Mao\Hackaton 2019\Describes\Describes\obj\Release\netcoreapp2.2\Describes.RazorAssemblyInfo.cs
+C:\Notas Mao\Hackaton 2019\Describes\Describes\obj\Release\netcoreapp2.2\Describes.AssemblyInfoInputs.cache
+C:\Notas Mao\Hackaton 2019\Describes\Describes\obj\Release\netcoreapp2.2\Describes.AssemblyInfo.cs
+C:\Notas Mao\Hackaton 2019\Describes\Describes\obj\Release\netcoreapp2.2\Describes.RazorTargetAssemblyInfo.cache
+C:\Notas Mao\Hackaton 2019\Describes\Describes\obj\Release\netcoreapp2.2\Describes.csproj.CopyComplete
+C:\Notas Mao\Hackaton 2019\Describes\Describes\obj\Release\netcoreapp2.2\Describes.dll
+C:\Notas Mao\Hackaton 2019\Describes\Describes\obj\Release\netcoreapp2.2\Describes.pdb

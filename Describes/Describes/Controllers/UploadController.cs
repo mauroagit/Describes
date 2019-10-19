@@ -25,6 +25,7 @@ namespace Describes.Controllers
             var bytes = Convert.FromBase64String(file.File);
             string pathToWavFile = "";
             string path = "";
+            string result = "";
 
             using (ZipArchive archive = new ZipArchive(new MemoryStream(bytes)))
             {
@@ -46,15 +47,12 @@ namespace Describes.Controllers
                     }
                 }
 
-
-                // Call service
-                // "C:\\Uploads\\24375.jpg"
                 var speechServices = new SpeechService();
-                var text = speechServices.RecognizeSpeechFromFileAsync(pathToWavFile);
+                result = speechServices.RecognizeSpeechFromFileAsync(pathToWavFile).Result;
 
             }
 
-            return Ok();
+            return Ok(result);
         }
     }
 }

@@ -1,0 +1,9 @@
+C:\Notas Mao\Hackaton 2019\Describes\Describes.Services\bin\Release\netcoreapp2.2\Describes.Services.deps.json
+C:\Notas Mao\Hackaton 2019\Describes\Describes.Services\bin\Release\netcoreapp2.2\Describes.Services.dll
+C:\Notas Mao\Hackaton 2019\Describes\Describes.Services\bin\Release\netcoreapp2.2\Describes.Services.pdb
+C:\Notas Mao\Hackaton 2019\Describes\Describes.Services\obj\Release\netcoreapp2.2\Describes.Services.csprojAssemblyReference.cache
+C:\Notas Mao\Hackaton 2019\Describes\Describes.Services\obj\Release\netcoreapp2.2\Describes.Services.csproj.CoreCompileInputs.cache
+C:\Notas Mao\Hackaton 2019\Describes\Describes.Services\obj\Release\netcoreapp2.2\Describes.Services.AssemblyInfoInputs.cache
+C:\Notas Mao\Hackaton 2019\Describes\Describes.Services\obj\Release\netcoreapp2.2\Describes.Services.AssemblyInfo.cs
+C:\Notas Mao\Hackaton 2019\Describes\Describes.Services\obj\Release\netcoreapp2.2\Describes.Services.dll
+C:\Notas Mao\Hackaton 2019\Describes\Describes.Services\obj\Release\netcoreapp2.2\Describes.Services.pdb
